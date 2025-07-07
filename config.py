@@ -4,34 +4,34 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", ""))
+API_ID = int(os.environ.get("API_ID", "20708013"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","")
+API_HASH = os.environ.get("API_HASH","f0dbe59c7e43cc49fe9e83206ef9f828")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8139724068:AAGYypn3-fn2jNHrWMLt8XbOno-ZrIzPPjo")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
-BOT_TEXT = "𝐏𝐑𝐎 𝐄𝐗𝐓𝐑𝐀𝐂𝐓𝐎𝐑 🕸SUJAL🕸"
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "http://t.me/Txtextractorhoj_bot")
+BOT_TEXT = "𝐏𝐑𝐎 𝐄𝐗𝐓𝐑𝐀𝐂𝐓𝐎𝐑 🕸MUNNABHAIYA🕸"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "8118667253"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "1188631841"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002799217873"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "--1002768582112"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002831044527")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002768582112")) 
 # -----------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002799217873"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002376025556"))
 # -----------------------------------------------
-join = '<a href="https://t.me/Lallantoop">✳️ Contect</a>'
+join = '<a href="https://t.me/MUNNAKIHWELI">✳️ Contect</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
-UNSPLASH_QUERY = 'animal baby'
+UNSPLASH_QUERY = 'ALOK'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "Lallantoop" #without @
+ADMIN_BOT_USERNAME = "ITSMUNNABHAIYA" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://i.ibb.co/mFv7r6H4/d997e7637c2a.jpg")
 
