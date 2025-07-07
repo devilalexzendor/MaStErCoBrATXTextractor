@@ -21,7 +21,7 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "--1002768582112"))
 # //FORCE_CHANNEL_ID
 CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002768582112")) 
 # -----------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL", "")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://savebot:RxxBfvkv1xnGsbPL@cluster0.9zpw7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
 PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002376025556"))
 # -----------------------------------------------
